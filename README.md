@@ -1,38 +1,18 @@
-# create-svelte
+# Programming Test - Junior Frontend Engineer of Softwrd_Ltd
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+# About:-
 
-## Creating a project
+    1. Design the Layout as provided.
+    2. Design Table and Chart and data fetching and display them accordingly.
+    3. The OpenLayers map is displayed, but the GeoJSON data is not being shown on the OpenLayers map.
 
-If you're seeing this, you've probably already done this step. Congrats!
+# Installation:-
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+        1. Download the file from github.
+        2. Go to the file open git version  / command promt.
+        3. Run npm install which will install all the necessary node_modules.
+        4. After installation run npm run dev to run the application in local server.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+# Live-Host:-
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+        https://softwrd-ltd-jr-programming-test.vercel.app/

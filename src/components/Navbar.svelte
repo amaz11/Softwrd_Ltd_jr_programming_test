@@ -16,7 +16,7 @@
       for=""
     />
     <ul>
-      <li><a href="/">Home</a></li>
+      <li><a href="/">Layout</a></li>
       <li><a href="/chart">Chart</a></li>
       <li><a href="/map">Map</a></li>
     </ul>
