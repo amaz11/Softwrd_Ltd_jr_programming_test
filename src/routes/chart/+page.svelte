@@ -7,7 +7,6 @@
     countryPopulation,
   } from "../../store/countryDataStore";
   import Table from "../../components/Table.svelte";
-  import PolarChart from "../../components/PolarChart.svelte";
 
   let ctx;
   let chartCanvas;
